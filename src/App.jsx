@@ -27,11 +27,11 @@ function App() {
     setTasks(newTasks);
   }
 
-  function onAddTaskSubmit(title, description) {
+  function onAddTaskSubmit(title) {
     const newTask = {
       id: tasks.length + 1,
       title,
-      description,
+
       isCompleted: false,
     };
     setTasks([...tasks, newTask]);
