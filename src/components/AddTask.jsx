@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function AddTask({ onAddTaskSubmit }) {
-  const [title, setTitle] = useState("123");
+  const [title, setTitle] = useState("");
 
   return (
     <div className="bg-slate-400 space-y-4 p-6 rounded-md shadow flex flex-col">
