@@ -2,6 +2,10 @@
 
 Este é um projeto simples de Gerenciador de Tarefas (To-Do List) desenvolvido com **React.js** e estilizado com **Tailwind CSS**. O foco do projeto é praticar os conceitos fundamentais do React, como componentes, `props`, `useState`, e renderização condicional.
 
+## ✨ Preview
+
+![preview](./preview.png)
+
 ## 🖼️ Visão Geral
 
 A aplicação exibe uma lista de tarefas com botões de interação (ainda sem funcionalidades completas). O componente principal gerencia o estado das tarefas e renderiza os subcomponentes de adicionar e listar tarefas.
@@ -58,10 +62,6 @@ src/
   - Marcar tarefa como concluída
   - Remover tarefas
   - Editar título da tarefa
-
-## ✨ Preview
-
-![preview](./preview.png)
 
 ## 👨‍💻 Autor(a)
 
