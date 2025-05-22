@@ -61,7 +61,7 @@ src/
 
 ## ✨ Preview
 
-![preview](https://via.placeholder.com/800x400.png?text=Preview+do+Gerenciador+de+Tarefas)
+![preview](./preview.png)
 
 ## 👨‍💻 Autor(a)
 
